@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registro Medidor</string>
+    <string name="label_medidor" >Medidor</string>
+    <string name="label_fecha">Fecha (yyyy-MM-dd)</string>
+    <string name="btn_registrar">Registrar Medicion</string>
+    <string name="error_fecha">Fecha inválida</string>
+    <string name="error_numero">Por favor ingresa un número válido.</string>
+    <string name="option_agua">AGUA</string>
+    <string name="option_luz">LUZ</string>
+    <string name="option_gas">GAS</string>
+    <string name="title_tipo_medidor">Medidor de:</string>
+    <string name="title">Registro Medidor</string>
+</resources>
