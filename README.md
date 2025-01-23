@@ -1,2 +1,3 @@
-# Exa--Pr2-MauricioManriquezCordero
+# Examen -- Programación 2
+Mauricio Manriquez Cordero
  
